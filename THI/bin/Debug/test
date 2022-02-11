@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfLetter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Letter>
+    <Where>630090, Новосибирск, 
+проспект Академика Лаврентьева, 6 </Where>
+    <ToWhom>Институт автоматики и электрометрии СО РАН 
+к.т.н., доценту Иванову И.И. </ToWhom>
+    <IsPrint>false</IsPrint>
+  </Letter>
+  <Letter>
+    <Where>ыва</Where>
+    <ToWhom>выа</ToWhom>
+    <IsPrint>false</IsPrint>
+  </Letter>
+  <Letter>
+    <Where>ывы</Where>
+    <ToWhom>ыва</ToWhom>
+    <IsPrint>false</IsPrint>
+  </Letter>
+</ArrayOfLetter>

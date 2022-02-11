@@ -1,0 +1,58 @@
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\bin\Debug\THI.exe.config
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\bin\Debug\THI.exe
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\bin\Debug\THI.pdb
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\THI.csprojResolveAssemblyReference.cache
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\App.g.cs
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\THI_MarkupCompile.cache
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\THI_MarkupCompile.lref
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\THI.g.resources
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\THI.Properties.Resources.resources
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\THI.csproj.GenerateResource.Cache
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\THI.exe
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\THI.pdb
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\THI.csproj.ResolveComReference.cache
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\View\EditWindow.g.cs
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\View\MainWindow.g.cs
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\View\EditWindow.baml
+c:\users\cyanide\documents\visual studio 2015\Projects\THI\THI\obj\Debug\View\MainWindow.baml
+C:\Users\Cyanide\Documents\Visual Studio 2015\Projects\THI\THI\obj\Debug\Cover.g.cs
+C:\Users\Cyanide\Documents\Visual Studio 2015\Projects\THI\THI\obj\Debug\Cover.baml
+C:\Users\Valerik\Desktop\THI\THI\bin\Debug\THI.exe.config
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\THI.csproj.ResolveComReference.cache
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\THI.exe
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\THI.pdb
+C:\Users\Valerik\Desktop\THI\THI\bin\Debug\THI.exe
+C:\Users\Valerik\Desktop\THI\THI\bin\Debug\THI.pdb
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\THI.csprojResolveAssemblyReference.cache
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\Cover.g.cs
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\View\EditWindow.g.cs
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\View\MainWindow.g.cs
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\App.g.cs
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\THI_MarkupCompile.cache
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\THI_MarkupCompile.lref
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\Cover.baml
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\View\EditWindow.baml
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\View\MainWindow.baml
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\THI.g.resources
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\THI.Properties.Resources.resources
+C:\Users\Valerik\Desktop\THI\THI\obj\Debug\THI.csproj.GenerateResource.Cache
+C:\ТПУ\тхи\THI\THI\bin\Debug\THI.exe.config
+C:\ТПУ\тхи\THI\THI\bin\Debug\THI.exe
+C:\ТПУ\тхи\THI\THI\bin\Debug\THI.pdb
+C:\ТПУ\тхи\THI\THI\obj\Debug\THI.csprojAssemblyReference.cache
+C:\ТПУ\тхи\THI\THI\obj\Debug\THI.csproj.ResolveComReference.cache
+C:\ТПУ\тхи\THI\THI\obj\Debug\View\EditWindow.g.cs
+C:\ТПУ\тхи\THI\THI\obj\Debug\View\MainWindow.g.cs
+C:\ТПУ\тхи\THI\THI\obj\Debug\App.g.cs
+C:\ТПУ\тхи\THI\THI\obj\Debug\THI_MarkupCompile.cache
+C:\ТПУ\тхи\THI\THI\obj\Debug\THI_MarkupCompile.lref
+C:\ТПУ\тхи\THI\THI\obj\Debug\View\EditWindow.baml
+C:\ТПУ\тхи\THI\THI\obj\Debug\View\MainWindow.baml
+C:\ТПУ\тхи\THI\THI\obj\Debug\THI.g.resources
+C:\ТПУ\тхи\THI\THI\obj\Debug\THI.Properties.Resources.resources
+C:\ТПУ\тхи\THI\THI\obj\Debug\THI.csproj.GenerateResource.cache
+C:\ТПУ\тхи\THI\THI\obj\Debug\THI.csproj.CoreCompileInputs.cache
+C:\ТПУ\тхи\THI\THI\obj\Debug\THI.exe
+C:\ТПУ\тхи\THI\THI\obj\Debug\THI.pdb
+C:\ТПУ\тхи\THI\THI\obj\Debug\View\Cover.g.cs
+C:\ТПУ\тхи\THI\THI\obj\Debug\View\Cover.baml
